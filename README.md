@@ -1,4 +1,4 @@
-# Car_Price_Analysis
+![Header](https://github.com/user-attachments/assets/18e33fd4-df67-4ee2-9eca-cf2e9e028ce4)
 
 This project explores used car sales data to uncover trends and insights into pricing, vehicle conditions, and market demand. Key analyses include price relationships with car attributes, brand quality, market anomalies, and regional pricing strategies. Visualizations aid in identifying potential deals.
 
